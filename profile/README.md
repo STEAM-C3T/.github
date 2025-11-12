@@ -62,7 +62,7 @@ Each repository within this organization corresponds to a major project componen
 
 | Repository                | Description                                                            |
 | ------------------------- | ---------------------------------------------------------------------- |
-| [`digital-proficiency-kit`]([./digital-proficiency-kit](https://github.com/STEAM-C3T/digital-proficiency-kit)) | Source materials, examples, and templates for HTML/CSS/JS modules      |
+| [`digital-proficiency-kit`](https://github.com/STEAM-C3T/digital-proficiency-kit) | Source materials, examples, and templates for HTML/CSS/JS modules      |
 | `teacher-toolkit`         | Pedagogical guides, lesson plans, and training documentation           |
 | `green-steam-challenge`   | Materials for the student innovation challenge                         |
 | `research-and-pilots`     | Data collection protocols, pilot study outcomes, and analytics scripts |
