@@ -60,13 +60,14 @@ Its responsibilities include:
 
 Each repository within this organization corresponds to a major project component:
 
-| Repository                                                                        | Description                                                            |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [`digital-proficiency-kit`](https://github.com/STEAM-C3T/digital-proficiency-kit) | Source materials, examples, and templates for HTML/CSS/JS modules      |
-| [`teacher-toolkit`](https://github.com/STEAM-C3T/teacher-toolkit)                 | Pedagogical guides, lesson plans, and training documentation           |
-| [`dpk-learning-materials`](https://github.com/STEAM-C3T/dpk-learning-materials)    | Classroom-ready learning materials: slide decks, tutorials, workbooks  |
-| `green-steam-challenge`                                                           | Materials for the student innovation challenge                         |
-| `dissemination`                                                                   | Media assets, reports, and conference materials                        |
+| Repository                                                                        | Description                                                           |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [`digital-proficiency-kit`](https://github.com/STEAM-C3T/digital-proficiency-kit) | Source materials, examples, and templates for HTML/CSS/JS modules     |
+| [`teacher-toolkit`](https://github.com/STEAM-C3T/teacher-toolkit)                 | Pedagogical guides, lesson plans, and training documentation          |
+| [`dpk-learning-materials`](https://github.com/STEAM-C3T/dpk-learning-materials)   | Classroom-ready learning materials: slide decks, tutorials, workbooks |
+| `green-steam-challenge`                                                           | Materials for the student innovation challenge                        |
+| `dissemination`                                                                   | Media assets, reports, and conference materials                       |
+
 ---
 
 ## About the Learning Materials Repository
