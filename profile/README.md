@@ -64,8 +64,22 @@ Each repository within this organization corresponds to a major project componen
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | [`digital-proficiency-kit`](https://github.com/STEAM-C3T/digital-proficiency-kit) | Source materials, examples, and templates for HTML/CSS/JS modules      |
 | [`teacher-toolkit`](https://github.com/STEAM-C3T/teacher-toolkit)                 | Pedagogical guides, lesson plans, and training documentation           |
+| [`dpk-learning-materials`](https://github.com/STEAM-C3T/dpk-learning-materials)    | Classroom-ready learning materials: slide decks, tutorials, workbooks  |
 | `green-steam-challenge`                                                           | Materials for the student innovation challenge                         |
 | `dissemination`                                                                   | Media assets, reports, and conference materials                        |
+---
+
+## About the Learning Materials Repository
+
+[`dpk-learning-materials`](https://github.com/STEAM-C3T/dpk-learning-materials) provides accessible, classroom-ready resources for each module and unit of the Digital Proficiency Kit. It includes:
+
+- Marp slide decks (presentations)
+- Step-by-step tutorials
+- Student and teacher workbooks
+- Templates for new modules/units
+
+**Purpose:**
+To support teachers and students with practical, ready-to-use materials for web literacy and digital skills in STEAM education. All resources are open-source and mapped to the Digital Proficiency Kit modules.
 
 ---
 
